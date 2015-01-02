@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+	<ListView
+	    android:id="@android:id/list"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"	    
+	    android:choiceMode="multipleChoice" >
+	</ListView>
+	
+	
+	<Button
+	    android:id="@+id/attd_btn"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"	    
+	    android:layout_alignParentBottom="true"
+	    android:background="#873e8d"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+	    android:text="@string/attendance_btn_txt" />
+	
+</RelativeLayout>

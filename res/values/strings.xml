@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IFS Juniors</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_session">Session</string>
+    <string name="title_activity_amkids">AMkids</string>
+    <string name="title_activity_pmkids">PMkids</string>
+    <string name="title_activity_tab1">Tab1</string>
+    <string name="title_activity_tab2">Tab2</string>
+    <string name="title_activity_kidslist">Kidslist</string>
+    <string name="loginbtn_txt">Login</string>
+    <string name="session_txt">Select Session</string>
+    <string name="Login_name_txt">Username</string>
+    <string name="Login_pwd_txt">Password</string>
+    <string name="attendance_btn_txt">Mark Attendance</string>
+    <string name="title_activity_amlist">AMlist</string>
+    <string name="title_activity_pmlist">PMlist</string>
+    <string name="title_activity_amtoddlers">AMtoddlers</string>
+    <string name="title_activity_amelders">AMelders</string>
+
+</resources>
